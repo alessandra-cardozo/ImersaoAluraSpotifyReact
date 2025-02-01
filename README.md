@@ -28,12 +28,6 @@ Npm: https://www.npmjs.com/
 
 ## 3 - Feita a instalação do npm, é necessário digitar o comando npm start, para abrir a aplicação, que estará disponível em http://localhost:3000 em seu computador.
 
-![image](https://github.com/Lucbm99/Imersao-Alura-Spotify-React/assets/45500959/2c3b17ba-82c0-4170-8144-e73b459ab937)
-
-
-
-## 📦 Status da aplicação
-🚧 Finalizada 🚧
 
 Link para acesso: https://spotify-imersao-alura-pi.vercel.app/
 
@@ -43,16 +37,6 @@ Link para acesso: https://spotify-imersao-alura-pi.vercel.app/
 * [ReactJS](https://reactjs.org/docs/getting-started.html)
 * [Git](https://git-scm.com/downloads)
 * [NPM](https://www.npmjs.com/)
-
-## ✒️ Licença 
-Consulte o arquivo LICENSE.md, para maiores detalhes.
-
-## ✒️ Autores
-Projeto feito por mim - [Lucbm99](https://github.com/Lucbm99)
-
-
----
-⌨️ com ❤️ por [Lucas Baradel](https://github.com/Lucbm99) 😊
 
 
 
